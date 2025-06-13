@@ -1,4 +1,4 @@
-module github.com/sagernet/sing-tun
+module github.com/AbiruEkanayaka/tun
 
 go 1.20
 

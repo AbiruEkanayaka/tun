@@ -4,7 +4,7 @@ import (
 	"net/netip"
 	"syscall"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
+	"github.com/AbiruEkanayaka/tun/internal/gtcpip/header"
 )
 
 func PacketIPVersion(packet []byte) int {

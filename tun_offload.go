@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip"
-	"github.com/sagernet/sing-tun/internal/gtcpip/checksum"
-	"github.com/sagernet/sing-tun/internal/gtcpip/header"
+	"github.com/AbiruEkanayaka/tun/internal/gtcpip"
+	"github.com/AbiruEkanayaka/tun/internal/gtcpip/checksum"
+	"github.com/AbiruEkanayaka/tun/internal/gtcpip/header"
 )
 
 const (

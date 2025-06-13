@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/sagernet/sing-tun/internal/gtcpip/checksum"
-	"github.com/sagernet/sing-tun/internal/tschecksum"
+	"github.com/AbiruEkanayaka/tun/internal/gtcpip/checksum"
+	"github.com/AbiruEkanayaka/tun/internal/tschecksum"
 )
 
 func BenchmarkTsChecksum(b *testing.B) {

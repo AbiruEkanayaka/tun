@@ -17,7 +17,7 @@ package header
 import (
 	"net/netip"
 
-	tcpip "github.com/sagernet/sing-tun/internal/gtcpip"
+	tcpip "github.com/AbiruEkanayaka/tun/internal/gtcpip"
 )
 
 const (
